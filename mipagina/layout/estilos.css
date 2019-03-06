@@ -1,0 +1,120 @@
+*{
+	box-sizing: border-box; 
+}
+.header{
+	background-color: gray;
+	text-align: center;
+	padding: 30px; 
+}
+.header h1{
+	color: #ff9898;
+	font-size: 60px;
+}
+.menu{
+	background-color: #e77a8a;
+	overflow: hidden;
+}
+.menu a{
+	float: left;
+	display: black;
+	color:purple;
+	text-align: center;
+	padding: 16px;
+}
+.menu a:hover{
+	color: black;
+	background-color: #9eccd3;
+}
+.izquierda{
+	float: left;
+	width: 70%;
+	margin-top: 20px;
+}
+.item{
+	padding:30px;
+	margin-top: 10px;
+	background-color: white;
+	text-align: center;
+}
+.pro{
+	text-align: left;
+}
+.image{
+	width: 300px;
+}
+.imagen{
+	width: 700px;
+}
+.sec{
+	width:500px;
+}
+.web{
+	width: 350px;
+}
+.shot{
+	width: 350px;
+}
+.izquierd{
+	float: left;
+	width: 45%;
+	margin-top: 20px;
+}
+.it{
+	padding:30px;
+	margin-top: 10px;
+	background-color: white;
+	text-align:center;
+}
+.imitation{
+	width: 350px;
+	text-align: center;
+}
+.letra{
+	color: #ffc0cb;
+	text-align: center;
+}
+.descripcion{
+	color: #00b8ff;
+}
+.izquier{
+	float: right;
+	width: 50%;
+	margin-top: 20px;
+}
+.its{
+	padding:30px;
+	margin-top: 10px;
+	background-color: white;
+	text-align:center;
+}
+.izquierdd{
+	float: right;
+	width: 50%;
+	margin-top: 20px;
+}
+.itg{
+	padding:30px;
+	margin-top: 10px;
+	background-color: white;
+	text-align:center;
+}
+body{
+	background-color: #e5e5e5;
+}
+.derecha{
+	float: left;
+	width: 30%;
+	padding-left: 20px;
+	margin-top: 20px;
+}
+.contenido:after{
+	content: "";
+	display:table;
+	clear: both;
+}
+.footer {
+	padding: 20px;
+	text-align: center;
+	background-color: #e77a8a;
+	margin-top: 190px;
+}
